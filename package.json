@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tst"
+    "test": "tst",
+    "start":"node server.js"
   },
   "author": "endar uliu",
   "license": "ISC",
